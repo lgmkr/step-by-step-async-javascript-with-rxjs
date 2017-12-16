@@ -1,24 +1,5 @@
-# RxJS Boiler
-
-Boilerplate for building RxJS applications in a Webpack environment
-
-> Note:
-> The video explaining RxJS and making use of this repo is located here:
->
-> https://www.youtube.com/watch?v=ei7FsoXKPl0
-
-### Version
-1.0.0
-
 This uses RxJS version 5 - [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
-
-### Usage
-
-
 ### Installation
-
-RxJS Boiler requires [Node.js](https://nodejs.org/) v4+ to run.
-
 Install dependencies (Webpack, Babel, RxJS 5, jQuery)
 
 ```sh
