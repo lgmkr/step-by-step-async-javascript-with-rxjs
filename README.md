@@ -1,6 +1,9 @@
-This uses RxJS version 5 - [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
+Step-by-Step Async JavaScript with RxJS
+
+![Alt Text](screen.gif 'screenshot')
+
 ### Installation
-Install dependencies (Webpack, Babel, RxJS 5, jQuery)
+Install dependencies (Webpack, Babel, RxJS 5)
 
 ```sh
 $ npm install
